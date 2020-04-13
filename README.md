@@ -13,4 +13,4 @@ pygame==1.9.6
 
 ## Game screenshots
 
-![alt text](https://raw.githubusercontent.com/positive235/gomoku/master/img/20190504gomoku.gif)
+![GOMOKU for 2 players](https://raw.githubusercontent.com/positive235/gomoku/master/img/20190504gomoku.gif)
