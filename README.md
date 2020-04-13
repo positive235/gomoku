@@ -13,4 +13,4 @@ pygame==1.9.6
 
 ## Game screenshots
 
-![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE/master/20190504gomoku.gif)
+![alt text](https://raw.githubusercontent.com/positive235/100-DAYS-OF-CODE-R0/master/20190504gomoku.gif?token=AJBKNUBUSIIYJ34XOATH3B26SO36Y)
